@@ -1,0 +1,75 @@
+#All other maps are joined by:
+#if walkable on 1st map: carry over to 2nd map
+
+
+Map6-Map18:
+if at(8,5) and direction up:
+	goto Map18 at(19,3) direction up,
+
+Map18-Map6:
+if at(19,3) and direction down:
+	goto Map6 at(8,5) direction down
+
+Map6-Map16
+if at (22,8) and direction up:
+	goto Map16 at (9,7) direction up
+
+Map 6-Map17
+if at (22,17) and direction up:
+	goto Map17 at (9,3) direction up
+
+Map 17-Map6:
+if Map17 at (9,3) and direction down:
+	if previousmap=Map6:
+		goto Map6 at (22,17), down
+
+
+Map 16-Map6:
+if map 16 at (9,7) and direction down
+	if previousmap=map6:
+		goto Map6 at (22,8), down
+
+Map 17-Map10:
+if map17 at (9,3) and direction down:
+	if previousmap=map10:
+		goto map10 at (19,5), down
+
+Map 10 -map17:
+if map10 at (19,5) and direction up:
+	if previousmap=map10:
+		goto map10 at (9,3), up
+
+Map16-Map10:
+if map16 at (9,7) and direction down:
+	if previousmap=map10:
+		goto map10 at 12,5 down
+
+
+Map10-map16:
+if map10 at (12,5) and direction up:
+	goto map10 at (9,7), up
+
+Map1-Map10:
+if map1 at (3,5) and direction up
+	goto map10 at (randint(1,9),randint(1,9)) direction down
+
+
+Maps 10/11
+
+#To get back/out of Map 10/11, one needs to talk to an NPC
+
+Map 7-12
+if map7 at (19,13) and direction up:
+	goto map 12 (5,2) direction down
+
+Map 12-7:
+if map12 at (5,2) and direction up:
+	goto map7 at (19,13) direction down
+
+Map 3-Map14:
+if map 3 at (21,9) an ddirection=up:
+	goto map14 at (2,4), down
+
+Map 14-Map3:
+if map 14 at (2,4) an ddirection=up:
+	goto map3 at (21,9), down

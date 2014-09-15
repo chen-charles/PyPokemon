@@ -1,0 +1,1677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f192b18-bc5a-4a79-8f9b-c52e9f36db3e" name="Default" comment="" />
+    <ignored path="Pokemon.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Pokemon">
+      <favorite_root url="file://$PROJECT_DIR$/battle.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/base.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/main.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/rgine/terrain.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/menu.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/rgine/windows.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/rgine/world.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/ChiangObjectives.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.49255952">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="base.py" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/base.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.3995327" vertical-offset="0" max-vertical-offset="17461">
+                  <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="basics.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/basics.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="2489" max-vertical-offset="7923">
+                  <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="battle.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/battle.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="1691" max-vertical-offset="11020">
+                  <caret line="89" column="31" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="world.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/rgine/world.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="1862" max-vertical-offset="2774">
+                  <caret line="98" column="32" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="32" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="menu.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/menu.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="6802" max-vertical-offset="10754">
+                  <caret line="358" column="17" selection-start-line="358" selection-start-column="17" selection-end-line="358" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="map.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/map.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="4826">
+                  <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="base.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/base.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="4845" max-vertical-offset="17480">
+                  <caret line="255" column="0" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="backpack.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/backpack.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="9101">
+                  <caret line="75" column="27" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Combinedv2.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Combinedv2.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="20520" max-vertical-offset="26638">
+                  <caret line="1080" column="47" selection-start-line="1080" selection-start-column="47" selection-end-line="1080" selection-end-column="47" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="windows.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/rgine/windows.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="4351" max-vertical-offset="25669">
+                  <caret line="229" column="23" selection-start-line="229" selection-start-column="8" selection-end-line="229" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.py" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/main.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="1.021028" vertical-offset="171" max-vertical-offset="14212">
+                  <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Push.Settings">
+    <option name="myUpdateMethod" value="REBASE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/rgine/common.py" />
+        <option value="$PROJECT_DIR$/debug_windows.py" />
+        <option value="$PROJECT_DIR$/wapisp.py" />
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/showTerrain.py" />
+        <option value="$PROJECT_DIR$/main_.py" />
+        <option value="$PROJECT_DIR$/rgine/Exception.log" />
+        <option value="$PROJECT_DIR$/loader_demo.py" />
+        <option value="$PROJECT_DIR$/rgine/changelog.txt" />
+        <option value="$PROJECT_DIR$/rgine/__init__.py" />
+        <option value="$PROJECT_DIR$/rgine/event.py" />
+        <option value="$PROJECT_DIR$/antidbg32.py" />
+        <option value="$PROJECT_DIR$/rgine/buildinfo.py" />
+        <option value="$PROJECT_DIR$/rgine/exception.py" />
+        <option value="$PROJECT_DIR$/rgine/loader.py" />
+        <option value="$PROJECT_DIR$/terrainFileGenerator.py" />
+        <option value="$PROJECT_DIR$/TerrainEditor.py" />
+        <option value="$PROJECT_DIR$/rgine/terrain.py" />
+        <option value="$PROJECT_DIR$/TexturePropertyEditor.py" />
+        <option value="$PROJECT_DIR$/TerrainPropertyEditor.py" />
+        <option value="$PROJECT_DIR$/terrain_property_assumption.txt" />
+        <option value="$PROJECT_DIR$/BComparison2.txt" />
+        <option value="$PROJECT_DIR$/ChiangObjectives.py" />
+        <option value="$PROJECT_DIR$/CatchPlace.py" />
+        <option value="$PROJECT_DIR$/rgine/world.py" />
+        <option value="$PROJECT_DIR$/resources_loader.py" />
+        <option value="$PROJECT_DIR$/basics.py" />
+        <option value="$PROJECT_DIR$/map.py" />
+        <option value="$PROJECT_DIR$/battle.py" />
+        <option value="$PROJECT_DIR$/rgine/windows.py" />
+        <option value="$PROJECT_DIR$/menu.py" />
+        <option value="$PROJECT_DIR$/Combinedv2.py" />
+        <option value="$PROJECT_DIR$/base.py" />
+        <option value="$PROJECT_DIR$/backpack.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyAttributeOutsideInitInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="true" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="71" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="79" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="82" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="409" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="54" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="47" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="51" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="489" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+    <option name="myShowDebugConsoleByDefault" value="true" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySaveCallSignatures" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="false" name="TerrainEditor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pokemon" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TerrainEditor.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="battle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pokemon" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/battle.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Combinedv2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pokemon" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Combinedv2.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="map" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pokemon" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/map.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in base" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pokemon" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pokemon" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pokemon" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pokemon" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pokemon" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pokemon" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pokemon" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pokemon" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="windows" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rgine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pokemon" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rgine/windows.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.windows" />
+      <item index="2" class="java.lang.String" itemvalue="Python.TerrainEditor" />
+      <item index="3" class="java.lang.String" itemvalue="Python.battle" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Combinedv2" />
+      <item index="5" class="java.lang.String" itemvalue="Python.map" />
+      <item index="6" class="java.lang.String" itemvalue="Python tests.Unittests in base" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in base" />
+        <item index="1" class="java.lang.String" itemvalue="Python.map" />
+        <item index="2" class="java.lang.String" itemvalue="Python.TerrainEditor" />
+        <item index="3" class="java.lang.String" itemvalue="Python.battle" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Combinedv2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f192b18-bc5a-4a79-8f9b-c52e9f36db3e" name="Default" comment="" />
+      <created>1399828347095</created>
+      <updated>1399828347095</updated>
+    </task>
+    <task id="LOCAL-00001" summary="general">
+      <created>1399830146957</created>
+      <updated>1399830146957</updated>
+    </task>
+    <task id="LOCAL-00002" summary="general">
+      <created>1399830902671</created>
+      <updated>1399830902671</updated>
+    </task>
+    <task id="LOCAL-00003" summary="general">
+      <created>1399823157954</created>
+      <updated>1399823157954</updated>
+    </task>
+    <task id="LOCAL-00004" summary="general">
+      <created>1399825402071</created>
+      <updated>1399825402071</updated>
+    </task>
+    <task id="LOCAL-00005" summary="general">
+      <created>1399825421978</created>
+      <updated>1399825421978</updated>
+    </task>
+    <task id="LOCAL-00006" summary="general">
+      <created>1399837091241</created>
+      <updated>1399837091241</updated>
+    </task>
+    <task id="LOCAL-00007" summary="general">
+      <created>1399839164813</created>
+      <updated>1399839164813</updated>
+    </task>
+    <task id="LOCAL-00008" summary="general">
+      <created>1399854385445</created>
+      <updated>1399854385445</updated>
+    </task>
+    <task id="LOCAL-00009" summary="general">
+      <created>1399858750217</created>
+      <updated>1399858750217</updated>
+    </task>
+    <task id="LOCAL-00010" summary="general">
+      <created>1399861030969</created>
+      <updated>1399861030969</updated>
+    </task>
+    <task id="LOCAL-00011" summary="general">
+      <created>1399861555403</created>
+      <updated>1399861555403</updated>
+    </task>
+    <task id="LOCAL-00012" summary="general">
+      <created>1399862428019</created>
+      <updated>1399862428019</updated>
+    </task>
+    <task id="LOCAL-00013" summary="bug fixes&#10;windows.py -&gt; fixed the issue of moving windows after the WindowsManager is moved.">
+      <created>1399865926478</created>
+      <updated>1399865926478</updated>
+    </task>
+    <task id="LOCAL-00014" summary="general">
+      <created>1399866176210</created>
+      <updated>1399866176210</updated>
+    </task>
+    <task id="LOCAL-00015" summary="general">
+      <created>1399866214324</created>
+      <updated>1399866214324</updated>
+    </task>
+    <task id="LOCAL-00016" summary="windows.py -&gt; added K_RETURN for buttons, added K_TAB for WC_MSGBOX">
+      <created>1399867754778</created>
+      <updated>1399867754778</updated>
+    </task>
+    <task id="LOCAL-00017" summary="windows.py -&gt; added K_RETURN for buttons, added K_TAB for WC_MSGBOX">
+      <created>1399867840755</created>
+      <updated>1399867840755</updated>
+    </task>
+    <task id="LOCAL-00018" summary="general">
+      <created>1399868853743</created>
+      <updated>1399868853743</updated>
+    </task>
+    <task id="LOCAL-00019" summary="general">
+      <created>1399869143263</created>
+      <updated>1399869143263</updated>
+    </task>
+    <task id="LOCAL-00020" summary="general">
+      <created>1400027594227</created>
+      <updated>1400027594227</updated>
+    </task>
+    <task id="LOCAL-00021" summary="general">
+      <created>1400040191256</created>
+      <updated>1400040191256</updated>
+    </task>
+    <task id="LOCAL-00022" summary="general">
+      <created>1400040795823</created>
+      <updated>1400040795823</updated>
+    </task>
+    <task id="LOCAL-00023" summary="general">
+      <created>1400040906522</created>
+      <updated>1400040906522</updated>
+    </task>
+    <task id="LOCAL-00024" summary="general">
+      <created>1400087078783</created>
+      <updated>1400087078784</updated>
+    </task>
+    <task id="LOCAL-00025" summary="general">
+      <created>1400087189063</created>
+      <updated>1400087189063</updated>
+    </task>
+    <task id="LOCAL-00026" summary="battle skeleton">
+      <created>1400112324456</created>
+      <updated>1400112324456</updated>
+    </task>
+    <task id="LOCAL-00027" summary="general">
+      <created>1400112394247</created>
+      <updated>1400112394247</updated>
+    </task>
+    <task id="LOCAL-00028" summary="general">
+      <created>1400112579336</created>
+      <updated>1400112579336</updated>
+    </task>
+    <task id="LOCAL-00029" summary="general">
+      <created>1400113225949</created>
+      <updated>1400113225949</updated>
+    </task>
+    <task id="LOCAL-00030" summary="general">
+      <created>1400195707317</created>
+      <updated>1400195707317</updated>
+    </task>
+    <task id="LOCAL-00031" summary="general">
+      <created>1400205367370</created>
+      <updated>1400205367370</updated>
+    </task>
+    <task id="LOCAL-00032" summary="general">
+      <created>1400285148481</created>
+      <updated>1400285148481</updated>
+    </task>
+    <task id="LOCAL-00033" summary="general">
+      <created>1400285403233</created>
+      <updated>1400285403233</updated>
+    </task>
+    <task id="LOCAL-00034" summary="battle basics">
+      <created>1400290458269</created>
+      <updated>1400290458269</updated>
+    </task>
+    <task id="LOCAL-00035" summary="general">
+      <created>1400551770888</created>
+      <updated>1400551770888</updated>
+    </task>
+    <task id="LOCAL-00036" summary="general">
+      <created>1400615632165</created>
+      <updated>1400615632165</updated>
+    </task>
+    <task id="LOCAL-00037" summary="general">
+      <created>1400615922979</created>
+      <updated>1400615922979</updated>
+    </task>
+    <task id="LOCAL-00038" summary="general">
+      <created>1400786934791</created>
+      <updated>1400786934791</updated>
+    </task>
+    <task id="LOCAL-00039" summary="general">
+      <created>1400787084001</created>
+      <updated>1400787084001</updated>
+    </task>
+    <task id="LOCAL-00040" summary="_windowTab">
+      <created>1400789843336</created>
+      <updated>1400789843336</updated>
+    </task>
+    <task id="LOCAL-00041" summary="general">
+      <created>1400790165300</created>
+      <updated>1400790165300</updated>
+    </task>
+    <task id="LOCAL-00042" summary="general">
+      <created>1400790426822</created>
+      <updated>1400790426822</updated>
+    </task>
+    <task id="LOCAL-00043" summary="general">
+      <created>1400791795709</created>
+      <updated>1400791795709</updated>
+    </task>
+    <task id="LOCAL-00044" summary="general">
+      <created>1400794829463</created>
+      <updated>1400794829463</updated>
+    </task>
+    <task id="LOCAL-00045" summary="general">
+      <created>1400800805472</created>
+      <updated>1400800805472</updated>
+    </task>
+    <task id="LOCAL-00046" summary="list &amp; dict .copy() are all SHALLOW copy, which sucks.&#10;ALWAYS USE COPY.DEEPCOPY() FOR THEM ...&#10;TOOK ME FOREVER TO FIX IT !">
+      <created>1400897780038</created>
+      <updated>1400897780038</updated>
+    </task>
+    <task id="LOCAL-00047" summary="general">
+      <created>1400897823968</created>
+      <updated>1400897823968</updated>
+    </task>
+    <task id="LOCAL-00048" summary="general">
+      <created>1400897913644</created>
+      <updated>1400897913644</updated>
+    </task>
+    <task id="LOCAL-00049" summary="general">
+      <created>1400898530713</created>
+      <updated>1400898530713</updated>
+    </task>
+    <task id="LOCAL-00050" summary="general">
+      <created>1400899253967</created>
+      <updated>1400899253967</updated>
+    </task>
+    <task id="LOCAL-00051" summary="changed behavior for WindowsManager.SetTopmost">
+      <created>1400900163984</created>
+      <updated>1400900163984</updated>
+    </task>
+    <task id="LOCAL-00052" summary="WindowsManager.SetTopmost documentation added">
+      <created>1400901491292</created>
+      <updated>1400901491292</updated>
+    </task>
+    <task id="LOCAL-00053" summary="general">
+      <created>1400901937907</created>
+      <updated>1400901937907</updated>
+    </task>
+    <task id="LOCAL-00054" summary="general">
+      <created>1400902081359</created>
+      <updated>1400902081359</updated>
+    </task>
+    <task id="LOCAL-00055" summary="changed behavior for exception.py">
+      <created>1400938550095</created>
+      <updated>1400938550095</updated>
+    </task>
+    <task id="LOCAL-00056" summary="general">
+      <created>1400938686054</created>
+      <updated>1400938686054</updated>
+    </task>
+    <task id="LOCAL-00057" summary="general">
+      <created>1400939891134</created>
+      <updated>1400939891134</updated>
+    </task>
+    <task id="LOCAL-00058" summary="general">
+      <created>1400939928135</created>
+      <updated>1400939928135</updated>
+    </task>
+    <task id="LOCAL-00059" summary="general">
+      <created>1400954110835</created>
+      <updated>1400954110835</updated>
+    </task>
+    <task id="LOCAL-00060" summary="_windowButton bug fixes&#10;world.py method's name changed(setScreenSize-&gt;setProjectionSize)&#10;several changes&#10;backpack.py">
+      <created>1401059793513</created>
+      <updated>1401059793513</updated>
+    </task>
+    <task id="LOCAL-00061" summary="general">
+      <created>1401060296359</created>
+      <updated>1401060296359</updated>
+    </task>
+    <task id="LOCAL-00062" summary="general">
+      <created>1401060495191</created>
+      <updated>1401060495191</updated>
+    </task>
+    <task id="LOCAL-00063" summary="general">
+      <created>1401066442356</created>
+      <updated>1401066442356</updated>
+    </task>
+    <task id="LOCAL-00064" summary="loader.py&#10;general">
+      <created>1401067797115</created>
+      <updated>1401067797115</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Rgine 0.0.0.0006 RC 1">
+      <created>1401068501788</created>
+      <updated>1401068501788</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Rgine 0.0.0.0006 RC 1">
+      <created>1401133357405</created>
+      <updated>1401133357405</updated>
+    </task>
+    <task id="LOCAL-00067" summary="general">
+      <created>1401171304692</created>
+      <updated>1401171304692</updated>
+    </task>
+    <task id="LOCAL-00068" summary="general">
+      <created>1401172048671</created>
+      <updated>1401172048672</updated>
+    </task>
+    <task id="LOCAL-00069" summary="general">
+      <created>1401224641256</created>
+      <updated>1401224641256</updated>
+    </task>
+    <task id="LOCAL-00070" summary="items&#10;rearranged some code">
+      <created>1401246286951</created>
+      <updated>1401246286951</updated>
+    </task>
+    <task id="LOCAL-00071" summary="links between battle and backpack is basically done&#10;battle sys major update&#10;general">
+      <created>1401252428621</created>
+      <updated>1401252428621</updated>
+    </task>
+    <task id="LOCAL-00072" summary="general">
+      <created>1401255383074</created>
+      <updated>1401255383074</updated>
+    </task>
+    <task id="LOCAL-00073" summary="general">
+      <created>1401255565609</created>
+      <updated>1401255565609</updated>
+    </task>
+    <task id="LOCAL-00074" summary="general">
+      <created>1401391767387</created>
+      <updated>1401391767387</updated>
+    </task>
+    <task id="LOCAL-00075" summary="general">
+      <created>1401396300383</created>
+      <updated>1401396300383</updated>
+    </task>
+    <task id="LOCAL-00076" summary="general">
+      <created>1401399575949</created>
+      <updated>1401399575949</updated>
+    </task>
+    <task id="LOCAL-00077" summary="added Map Management&#10;added shift ctrl for terrain.py &amp; world.py&#10;general">
+      <created>1401565008572</created>
+      <updated>1401565008572</updated>
+    </task>
+    <task id="LOCAL-00078" summary="general">
+      <created>1401566114541</created>
+      <updated>1401566114541</updated>
+    </task>
+    <task id="LOCAL-00079" summary="terrain.py semi_finalize&#10;general">
+      <created>1401567741554</created>
+      <updated>1401567741554</updated>
+    </task>
+    <task id="LOCAL-00080" summary="general">
+      <created>1401569286300</created>
+      <updated>1401569286300</updated>
+    </task>
+    <task id="LOCAL-00081" summary="general">
+      <created>1401597923947</created>
+      <updated>1401597923947</updated>
+    </task>
+    <task id="LOCAL-00082" summary="general">
+      <created>1401600034405</created>
+      <updated>1401600034414</updated>
+    </task>
+    <task id="LOCAL-00083" summary="general">
+      <created>1401669697966</created>
+      <updated>1401669697966</updated>
+    </task>
+    <task id="LOCAL-00084" summary="general">
+      <created>1401744206684</created>
+      <updated>1401744206684</updated>
+    </task>
+    <task id="LOCAL-00085" summary="general">
+      <created>1401744506920</created>
+      <updated>1401744506920</updated>
+    </task>
+    <task id="LOCAL-00086" summary="general">
+      <created>1401997667135</created>
+      <updated>1401997667135</updated>
+    </task>
+    <task id="LOCAL-00087" summary="general">
+      <created>1402002113095</created>
+      <updated>1402002113095</updated>
+    </task>
+    <task id="LOCAL-00088" summary="general">
+      <created>1402007065440</created>
+      <updated>1402007065440</updated>
+    </task>
+    <task id="LOCAL-00089" summary="general">
+      <created>1402008131086</created>
+      <updated>1402008131086</updated>
+    </task>
+    <task id="LOCAL-00090" summary="general">
+      <created>1402010907294</created>
+      <updated>1402010907294</updated>
+    </task>
+    <task id="LOCAL-00091" summary="general">
+      <created>1402012879175</created>
+      <updated>1402012879175</updated>
+    </task>
+    <task id="LOCAL-00092" summary="general">
+      <created>1402013215984</created>
+      <updated>1402013215985</updated>
+    </task>
+    <task id="LOCAL-00093" summary="general">
+      <created>1402013534732</created>
+      <updated>1402013534732</updated>
+    </task>
+    <task id="LOCAL-00094" summary="general">
+      <created>1402014834522</created>
+      <updated>1402014834523</updated>
+    </task>
+    <task id="LOCAL-00095" summary="general">
+      <created>1402014988004</created>
+      <updated>1402014988004</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Major Changes&#10;Prev TextureProperty -&gt; Curr TerrainProperty&#10;New TextureProperty&#10;see terrain.py&#10;changed editors&#10;added sample&#10;general">
+      <created>1402018863488</created>
+      <updated>1402018863488</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Major Changes&#10;Prev TextureProperty -&gt; Curr TerrainProperty&#10;New TextureProperty&#10;see terrain.py&#10;changed editors&#10;added sample&#10;general">
+      <created>1402063945897</created>
+      <updated>1402063945897</updated>
+    </task>
+    <task id="LOCAL-00098" summary="general">
+      <created>1402063978561</created>
+      <updated>1402063978561</updated>
+    </task>
+    <task id="LOCAL-00099" summary="general&#10;several changes&#10;battle-&gt;msgboxes&#10;shop_amt-&gt;amtbox&#10;rearr">
+      <created>1402115768859</created>
+      <updated>1402115768859</updated>
+    </task>
+    <task id="LOCAL-00100" summary="general">
+      <created>1402115911391</created>
+      <updated>1402115911391</updated>
+    </task>
+    <task id="LOCAL-00101" summary="general">
+      <created>1402116096328</created>
+      <updated>1402116096328</updated>
+    </task>
+    <task id="LOCAL-00102" summary="general">
+      <created>1402116719669</created>
+      <updated>1402116719669</updated>
+    </task>
+    <task id="LOCAL-00103" summary="general&#10;catch sys&#10;several changes">
+      <created>1402157052381</created>
+      <updated>1402157052381</updated>
+    </task>
+    <task id="LOCAL-00104" summary="general">
+      <created>1402164385355</created>
+      <updated>1402164385355</updated>
+    </task>
+    <task id="LOCAL-00105" summary="general">
+      <created>1402164950769</created>
+      <updated>1402164950769</updated>
+    </task>
+    <task id="LOCAL-00106" summary="general&#10;3584 lines (only the main files, exclude the editors, rgine and others)&#10;linked 2 maps (switching by pygame.K_1, pygame.K_2)">
+      <created>1402253242636</created>
+      <updated>1402253242636</updated>
+    </task>
+    <task id="LOCAL-00107" summary="general&#10;sell npc added">
+      <created>1402283467478</created>
+      <updated>1402283467478</updated>
+    </task>
+    <task id="LOCAL-00108" summary="general">
+      <created>1402284933138</created>
+      <updated>1402284933138</updated>
+    </task>
+    <task id="LOCAL-00109" summary="general">
+      <created>1402285187060</created>
+      <updated>1402285187060</updated>
+    </task>
+    <task id="LOCAL-00110" summary="general">
+      <created>1402344073245</created>
+      <updated>1402344073245</updated>
+    </task>
+    <task id="LOCAL-00111" summary="general">
+      <created>1402346570702</created>
+      <updated>1402346570702</updated>
+    </task>
+    <task id="LOCAL-00112" summary="general">
+      <created>1402347763812</created>
+      <updated>1402347763812</updated>
+    </task>
+    <task id="LOCAL-00113" summary="general">
+      <created>1402362268593</created>
+      <updated>1402362268593</updated>
+    </task>
+    <task id="LOCAL-00114" summary="general">
+      <created>1402365175509</created>
+      <updated>1402365175509</updated>
+    </task>
+    <task id="LOCAL-00115" summary="general">
+      <created>1402366416241</created>
+      <updated>1402366416241</updated>
+    </task>
+    <task id="LOCAL-00116" summary="general">
+      <created>1402366589137</created>
+      <updated>1402366589137</updated>
+    </task>
+    <task id="LOCAL-00117" summary="general">
+      <created>1402368828410</created>
+      <updated>1402368828410</updated>
+    </task>
+    <task id="LOCAL-00118" summary="general">
+      <created>1402373909724</created>
+      <updated>1402373909724</updated>
+    </task>
+    <task id="LOCAL-00119" summary="general">
+      <created>1402409193740</created>
+      <updated>1402409193740</updated>
+    </task>
+    <task id="LOCAL-00120" summary="general">
+      <created>1402437531022</created>
+      <updated>1402437531022</updated>
+    </task>
+    <task id="LOCAL-00121" summary="general">
+      <created>1402505473219</created>
+      <updated>1402505473219</updated>
+    </task>
+    <task id="LOCAL-00122" summary="general">
+      <created>1402523234476</created>
+      <updated>1402523234476</updated>
+    </task>
+    <task id="LOCAL-00123" summary="general">
+      <created>1402539105501</created>
+      <updated>1402539105501</updated>
+    </task>
+    <task id="LOCAL-00124" summary="general">
+      <created>1402543802681</created>
+      <updated>1402543802681</updated>
+    </task>
+    <task id="LOCAL-00125" summary="general">
+      <created>1402546562108</created>
+      <updated>1402546562108</updated>
+    </task>
+    <task id="LOCAL-00126" summary="general">
+      <created>1402591368873</created>
+      <updated>1402591368873</updated>
+    </task>
+    <task id="LOCAL-00127" summary="general">
+      <created>1402597408510</created>
+      <updated>1402597408510</updated>
+    </task>
+    <task id="LOCAL-00128" summary="general">
+      <created>1402603384396</created>
+      <updated>1402603384396</updated>
+    </task>
+    <task id="LOCAL-00129" summary="general">
+      <created>1402607187183</created>
+      <updated>1402607187183</updated>
+    </task>
+    <task id="LOCAL-00130" summary="general">
+      <created>1402627760207</created>
+      <updated>1402627760207</updated>
+    </task>
+    <task id="LOCAL-00131" summary="general">
+      <created>1402633600994</created>
+      <updated>1402633600994</updated>
+    </task>
+    <task id="LOCAL-00132" summary="general">
+      <created>1402678297919</created>
+      <updated>1402678297919</updated>
+    </task>
+    <task id="LOCAL-00133" summary="general">
+      <created>1402696108050</created>
+      <updated>1402696108050</updated>
+    </task>
+    <task id="LOCAL-00134" summary="general">
+      <created>1402702499848</created>
+      <updated>1402702499848</updated>
+    </task>
+    <task id="LOCAL-00135" summary="general">
+      <created>1402714757612</created>
+      <updated>1402714757612</updated>
+    </task>
+    <task id="LOCAL-00136" summary="general">
+      <created>1402716009106</created>
+      <updated>1402716009106</updated>
+    </task>
+    <task id="LOCAL-00137" summary="Alpha">
+      <created>1402724453917</created>
+      <updated>1402724453917</updated>
+    </task>
+    <task id="LOCAL-00138" summary="general">
+      <created>1402724684993</created>
+      <updated>1402724684993</updated>
+    </task>
+    <task id="LOCAL-00139" summary="general">
+      <created>1402725400489</created>
+      <updated>1402725400489</updated>
+    </task>
+    <task id="LOCAL-00140" summary="general">
+      <created>1402725462331</created>
+      <updated>1402725462331</updated>
+    </task>
+    <task id="LOCAL-00141" summary="general">
+      <created>1402764664564</created>
+      <updated>1402764664564</updated>
+    </task>
+    <task id="LOCAL-00142" summary="general">
+      <created>1402811736121</created>
+      <updated>1402811736121</updated>
+    </task>
+    <task id="LOCAL-00143" summary="general">
+      <created>1402813128545</created>
+      <updated>1402813128545</updated>
+    </task>
+    <task id="LOCAL-00144" summary="general">
+      <created>1402849488986</created>
+      <updated>1402849488986</updated>
+    </task>
+    <task id="LOCAL-00145" summary="general">
+      <created>1402851903345</created>
+      <updated>1402851903345</updated>
+    </task>
+    <task id="LOCAL-00146" summary="general">
+      <created>1402853685081</created>
+      <updated>1402853685081</updated>
+    </task>
+    <task id="LOCAL-00147" summary="general">
+      <created>1402872289862</created>
+      <updated>1402872289862</updated>
+    </task>
+    <task id="LOCAL-00148" summary="general">
+      <created>1402888004237</created>
+      <updated>1402888004237</updated>
+    </task>
+    <task id="LOCAL-00149" summary="Beta">
+      <created>1402895447778</created>
+      <updated>1402895447778</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.49962825" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32808024" sideWeight="0.49962825" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32808024" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16369048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49713466" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32808024" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2038835" sideWeight="0.49962825" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32808024" sideWeight="0.49925596" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3252149" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32808024" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3982808" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.49962825" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32808024" sideWeight="0.49962825" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3252149" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49713466" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32808024" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32808024" sideWeight="0.49925596" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32808024" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16369048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3982808" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20600858" sideWeight="0.49962825" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
+    <MESSAGE value="bug fixes&#10;windows.py -&gt; fixed the issue of moving windows after the WindowsManager is moved." />
+    <MESSAGE value="windows.py -&gt; added K_RETURN for buttons, added K_TAB for WC_MSGBOX" />
+    <MESSAGE value="battle skeleton" />
+    <MESSAGE value="battle basics" />
+    <MESSAGE value="_windowTab" />
+    <MESSAGE value="list &amp; dict .copy() are all SHALLOW copy, which sucks.&#10;ALWAYS USE COPY.DEEPCOPY() FOR THEM ...&#10;TOOK ME FOREVER TO FIX IT !" />
+    <MESSAGE value="changed behavior for WindowsManager.SetTopmost" />
+    <MESSAGE value="WindowsManager.SetTopmost documentation added" />
+    <MESSAGE value="changed behavior for exception.py" />
+    <MESSAGE value="_windowButton bug fixes&#10;world.py method's name changed(setScreenSize-&gt;setProjectionSize)&#10;several changes&#10;backpack.py" />
+    <MESSAGE value="loader.py&#10;general" />
+    <MESSAGE value="Rgine 0.0.0.0006 RC 1" />
+    <MESSAGE value="items&#10;rearranged some code" />
+    <MESSAGE value="links between battle and backpack is basically done&#10;battle sys major update&#10;general" />
+    <MESSAGE value="added Map Management&#10;added shift ctrl for terrain.py &amp; world.py&#10;general" />
+    <MESSAGE value="terrain.py semi_finalize&#10;general" />
+    <MESSAGE value="Major Changes&#10;Prev TextureProperty -&gt; Curr TerrainProperty&#10;New TextureProperty&#10;see terrain.py&#10;changed editors&#10;added sample&#10;general" />
+    <MESSAGE value="general&#10;several changes&#10;battle-&gt;msgboxes&#10;shop_amt-&gt;amtbox&#10;rearr" />
+    <MESSAGE value="general&#10;catch sys&#10;several changes" />
+    <MESSAGE value="general&#10;3584 lines (only the main files, exclude the editors, rgine and others)&#10;linked 2 maps (switching by pygame.K_1, pygame.K_2)" />
+    <MESSAGE value="general&#10;sell npc added" />
+    <MESSAGE value="Alpha" />
+    <MESSAGE value="general" />
+    <MESSAGE value="Beta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beta" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="51" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LICENSE.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="3249">
+          <caret line="13" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2413">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38058552" vertical-offset="0" max-vertical-offset="3249">
+          <caret line="13" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pic1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textureFileGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="684">
+          <caret line="16" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python32/Lib/site-packages/pygame/sysfont.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10471" max-vertical-offset="12141">
+          <caret line="558" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rgine/progressbar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3059">
+          <caret line="43" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rgine/surface_buffer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1026">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="912">
+          <caret line="2" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rgine/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19732937" vertical-offset="0" max-vertical-offset="1311">
+          <caret line="7" column="58" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showTerrain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.02818991" vertical-offset="0" max-vertical-offset="1254">
+          <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39465874" vertical-offset="0" max-vertical-offset="1843">
+          <caret line="16" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loader_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228">
+          <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rgine/cpp/PgbarLoader/stdafx.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19791667" vertical-offset="0" max-vertical-offset="672">
+          <caret line="7" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd_breakpoints.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30555555" vertical-offset="1364" max-vertical-offset="3743">
+          <caret line="80" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rgine/changelog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1494" max-vertical-offset="2166">
+          <caret line="108" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rgine/event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="2755">
+          <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/antidbg32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3110119" vertical-offset="0" max-vertical-offset="672">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rgine/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="202" max-vertical-offset="1216">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rgine/buildinfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2901785" vertical-offset="1304" max-vertical-offset="1976">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rgine/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1159">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terrainFileGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TerrainPropertyEditor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="3629">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TexturePropertyEditor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="3762">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rgine/terrain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11191">
+          <caret line="141" column="11" selection-start-line="141" selection-start-column="11" selection-end-line="141" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terrain_property_assumption.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.113263786" vertical-offset="0" max-vertical-offset="671">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BComparison2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.152" vertical-offset="0" max-vertical-offset="500">
+          <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug_windows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5767511" vertical-offset="677" max-vertical-offset="1349">
+          <caret line="57" column="31" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rgine/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="950">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wapisp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.036750484" vertical-offset="76" max-vertical-offset="9500">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TerrainEditor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.14700194" vertical-offset="950" max-vertical-offset="6137">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="31496" max-vertical-offset="31806">
+          <caret line="1732" column="0" selection-start-line="1732" selection-start-column="0" selection-end-line="1733" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maps/Map8/1402449580.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CatchPlace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3119403" vertical-offset="19" max-vertical-offset="1254">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="59" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python32/Lib/site-packages/pygame/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5985">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connections.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0848485" vertical-offset="850" max-vertical-offset="1520">
+          <caret line="73" column="36" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleBackground/Link.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="518">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm30/system/python_stubs/-1700991364/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33283582" vertical-offset="19442" max-vertical-offset="105108">
+          <caret line="1035" column="8" selection-start-line="1035" selection-start-column="8" selection-end-line="1035" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="879" max-vertical-offset="1406">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleBackground/OpenWater1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/battle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1482" max-vertical-offset="11001">
+          <caret line="89" column="31" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChiangObjectives.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.9223881" vertical-offset="618" max-vertical-offset="2774">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1406" max-vertical-offset="7847">
+          <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rgine/windows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5009" max-vertical-offset="25612">
+          <caret line="229" column="23" selection-start-line="229" selection-start-column="8" selection-end-line="229" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6802" max-vertical-offset="10754">
+          <caret line="358" column="17" selection-start-line="358" selection-start-column="17" selection-end-line="358" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="4750">
+          <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Combinedv2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="20126" max-vertical-offset="26391">
+          <caret line="1080" column="47" selection-start-line="1080" selection-start-column="47" selection-end-line="1080" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rgine/world.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2736">
+          <caret line="98" column="32" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backpack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1277" max-vertical-offset="9082">
+          <caret line="75" column="27" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4845" max-vertical-offset="17480">
+          <caret line="255" column="0" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.021028" vertical-offset="171" max-vertical-offset="14212">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

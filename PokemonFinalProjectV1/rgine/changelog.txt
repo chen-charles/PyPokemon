@@ -1,0 +1,108 @@
+=====Rgine 0.0.0.0003 RC3 -> Release=====
+
+bug fixes
+windows.py -> lots of changes and updates, see sample program in windows.py for how to use it
+event.py -> now saves mouse pos
+surface_buffer.py -> fixed error (pygame.Surface.get_buffer().raw -> BGRA format)
+
+If no more bugs, this will be the stable version.  
+
+=====Rgine 0.0.0.0003 Release=====
+
+bug fixes
+
+=====Rgine 0.0.0.0004 Preview=====
+
+Bumped to 0.0.0.0004 -> Preview
+
+Terrain:
+Bumped to 0.0.0.0005 -> Preview
+deleted feature -> flexible texture
+new feature -> simple texture
+
+changed sample program for reading terrain & texture
+
+=====Rgine 0.0.0.0004 RC1=====
+
+Bumped to 0.0.0.0004 -> RC1
+windows.py -> framed window	(framed OUTSIDE the ClientRect)
+				(there is a performance issue for framed windows, see sample)
+				(you can write your own class for handling by RegisterClass)
+				(WindowsManager.RegisterClass -> args changed)
+event.py -> several new functions
+
+changed names of several macros in rgine.windows.WindowsMacros
+changed sample program for windows.py
+
+=====Rgine 0.0.0.0004 RC2=====
+
+Bumped to 0.0.0.0004 -> RC2
+bug fixes
+
+added documentation for both terrain.py and windows.py
+help(rgine.Terrain)
+help(rgine.Terrain("r"))
+help(rgine.Terrain("w"))
+help(rgine.windows)
+help(rgine.windows.WindowsManager)
+help(rgine.windows._windowBase)
+
+several new methods in common.py for int, bool, byte transformations
+
+=====Rgine 0.0.0.0004 Release=====
+
+bug fixes
+common.py -> int2bool
+terrain.py -> added setProperty() & setIdentifier() in the base class	(was _terrainW.modify())
+
+=====Rgine 0.0.0.0004 Release Update 1=====
+
+MAJOR FIXES: RGINE 0.0.0.0004 Update 1
+	Several Major Issues Are Now Fixed In This Update: 
+		Surface Buffer -> Failure for several types of images.  Extremely Slow Speed.  
+		Terrain -> Creation of medium amount of textures could EASILY CRASH this.  
+		Several other tiny issues are fixed.  
+		Changed the arguments of Terrain.render() -> more flexible
+	Added textureFileGenerator
+	Added rgine_bgra2rgba toolset (src included)
+
+=====Rgine 0.0.0.0005 Preview=====
+
+bug fixes
+fixed rgine_bgra2rgba
+windows.py -> new features are not ready, for preview only. 
+windows.py -> WindowsManager.SetTopmost(hWnd, bSet) is ready. 
+
+=====Rgine 0.0.0.0005 RC1=====
+
+bug fixes
+windows.py -> WindowsManager.__builtin__ -> Messagebox Ready.
+windows.py -> default args place holder: None
+windows.py -> sample program changed
+
+=====Rgine 0.0.0.0005 RC2=====
+
+bug fixes
+event.py -> optimized for pygame.MOUSEMOTION
+
+=====Rgine 0.0.0.0005 RC3=====
+
+major bug fixes for terrain.py
+
+=====Rgine 0.0.0.0006 RC1=====
+
+Bumped to 0.0.0.0006
+major bug fixes for windows.py
+several new features for windows.py:
+	WindowsManager.RegisterCompleteClass()
+	_windowBase -> windowBase
+	Editbox
+	Scrollable
+	Tab
+	...
+exception.py major changes
+loader.py & PgbarLoader src included
+world.py several changes
+progressbar.py added
+
+if no more bugs, this will be the stable version.

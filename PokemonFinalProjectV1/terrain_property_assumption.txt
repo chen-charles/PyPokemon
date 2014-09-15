@@ -1,0 +1,8 @@
+8 property digits::
+[bool, bool, bool, bool, bool, bool, bool, bool]
+
+[0] ->  if reachable
+[1] ->  if a player event (reserved)
+[2] ->	if count battle step
+[3] ->
+[4] ->	if battle -> water mode
