@@ -41,12 +41,16 @@ class error(Exception):
 		try: c_context = int(c_context)
 		except ValueError: c_context = 10
 		stack = inspect.stack(c_context)
-		for i in map(list, stack):
-			i[4] = "\n"+"".join(list(map(lambda x: "\t"*5+x, i[4])))
-			t = (str(j), ) + tuple(map(str, i[1:]))
-			stackinfo.append(_stackinfo%t)
-			j += 1
-		del stack
+		try:
+			for i in map(list, stack):
+				i[4] = "\n"+"".join(list(map(lambda x: "\t"*5+x, i[4])))
+				t = (str(j), ) + tuple(map(str, i[1:]))
+				stackinfo.append(_stackinfo%t)
+				j += 1
+		except Exception:
+			pass
+		finally:
+			del stack
 
 		log(
 			_logfmt%(str(e_level), getTimestamp(), exception.__name__, msg, "".join(stackinfo)),

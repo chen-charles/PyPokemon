@@ -738,5 +738,5 @@ except Exception as err:
         except Exception:pass
         try:pygame.quit()
         except Exception:pass
-##        raise rgine.exception.error(str(exc_type)+" at line: "+str(exc_tb.tb_lineno), Exception, logfile="CrashDump.log")
+        raise rgine.exception.error(str(exc_type)+" at line: "+str(exc_tb.tb_lineno), Exception, logfile="CrashDump.log")
         exit(1)

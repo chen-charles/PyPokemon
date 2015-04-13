@@ -266,8 +266,8 @@ while running:
 				wapisp.MessageBox(hPygameWindow, "Done! ", wmbuttons[hWnd])
 			elif wmbuttons[hWnd] == "Finalize":
 				uret = wapisp.MessageBox(hPygameWindow, "Do you want to save it as a jpeg file?\n"
-								 "Note that it will be extremely fast and small-sized"
-								 "to save textures as a jpeg file,"
+								 "Note that it will be extremely fast and small-sized "
+								 "to save textures as a jpeg file, "
 								 "but you won't be able to load it by readTextureFromFile().\n"
 								 "Instead, you will have to load it by pygame.image first, "
 								 "then call readTextureFromSurface() to initialize.  ", wmbuttons[hWnd],
