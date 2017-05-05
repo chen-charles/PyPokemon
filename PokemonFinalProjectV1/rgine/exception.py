@@ -40,7 +40,7 @@ class error(Exception):
 		self._exception = exception
 		try: c_context = int(c_context)
 		except ValueError: c_context = 10
-		stack = inspect.stack(c_context)
+		stack = inspect.trace(c_context)
 		try:
 			for i in map(list, stack):
 				i[4] = "\n"+"".join(list(map(lambda x: "\t"*5+x, i[4])))
