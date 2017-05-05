@@ -1,7 +1,7 @@
 import inspect, os, wapisp
 
 import sys
-input(str(sys.version_info))
+
 if sys.version_info[:2] == (3, 6):
     import pip
     pip.main("install pygame".split())
