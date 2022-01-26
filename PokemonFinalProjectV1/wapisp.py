@@ -205,29 +205,30 @@ CC_SOLIDCOLOR   =   0x00000080
 
 class OPENFILENAMEW(ctypes.Structure):  #three hours
 	_fields_ = [("lStructSize", ctypes.c_ulong),
-				("hwndOwner", ctypes.c_ulong),
-				("hInstance", ctypes.c_ulong),
+				("hwndOwner", ctypes.c_void_p),
+				("hInstance", ctypes.c_void_p),
 				("lpstrFilter",ctypes.c_wchar_p),
-				("lpstrCustomFilter", ctypes.c_ulong),
+				("lpstrCustomFilter", ctypes.c_void_p),
 				("nMaxCustFilter", ctypes.c_ulong),
 				("nFilterIndex", ctypes.c_ulong),
 				("lpstrFile", ctypes.c_wchar_p),
 				("nMaxFile", ctypes.c_long),
-				("lpstrFileTitle", ctypes.c_ulong),
+				("lpstrFileTitle", ctypes.c_void_p),
 				("nMaxFileTitle", ctypes.c_ulong),
-				("lpstrInitialDir", ctypes.c_ulong),
-				("lpstrTitle", ctypes.c_ulong),
+				("lpstrInitialDir", ctypes.c_void_p),
+				("lpstrTitle", ctypes.c_void_p),
 				("Flags", ctypes.c_ulong),
 				("nFileOffset", ctypes.c_ushort),
 				("nFileExtension", ctypes.c_ushort),
-				("lpstrDefExt", ctypes.c_ulong),
-				("lCustData", ctypes.c_long),
-				("lpfnHook", ctypes.c_long),
-				("lpTemplateName", ctypes.c_ulong),
+				("lpstrDefExt", ctypes.c_void_p),
+				("lCustData", ctypes.c_void_p),
+				("lpfnHook", ctypes.c_void_p),
+				("lpTemplateName", ctypes.c_void_p),
 				("pvReserved", ctypes.c_void_p),
 				("dwReserved", ctypes.c_ulong),
 				("FlagsEx", ctypes.c_ulong),
 				]
+
 #OFN
 OFN_FILEMUSTEXIST=  0x00001000
 OFN_PATHMUSTEXIST=  0x00000800
@@ -390,6 +391,7 @@ def GetOpenFileName(handle,strFilter=None):
 	ofn.lpstrFile = output
 	ofn.nMaxFile = 255
 	ofn.Flags = OFN_FILEMUSTEXIST | OFN_PATHMUSTEXIST | OFN_EXPLORER | OFN_HIDEREADONLY
+
 	return comdlg32.GetOpenFileNameW(ctypes.pointer(ofn)), ctypes.wstring_at(output)
 
 
@@ -411,6 +413,7 @@ def GetSaveFileName(handle,strFilter=None):
 	ofn.lpstrFile = output
 	ofn.nMaxFile = 255
 	ofn.Flags = OFN_FILEMUSTEXIST | OFN_PATHMUSTEXIST | OFN_EXPLORER | OFN_HIDEREADONLY
+
 	return comdlg32.GetSaveFileNameW(ctypes.pointer(ofn)), ctypes.wstring_at(output)
 
 
