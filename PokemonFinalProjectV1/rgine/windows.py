@@ -1292,7 +1292,7 @@ def _main():
 	evt = event.Event()
 
 	import time
-	t = time.clock()
+	t = time.perf_counter()
 	fps = 0
 
 	msgbox = wm.CreateWindow(WindowsMacros.WC_MSGBOX,
@@ -1328,12 +1328,12 @@ def _main():
 		pygame.display.flip()
 
 		fps += 1
-		if time.clock() - t >= 60:
+		if time.perf_counter() - t >= 60:
 			break
-		# print(fps, time.clock()-t)
+		# print(fps, time.perf_counter()-t)
 		# print("Current Topmost: %d"%(wm._current["topmost"]-10))
 		# fps = 0
-		# t = time.clock()
+		# t = time.perf_counter()
 	wm.Release()
 	pygame.quit()
 

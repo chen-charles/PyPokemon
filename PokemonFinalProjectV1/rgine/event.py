@@ -107,7 +107,7 @@ def _main():
 	evt = Event()
 
 	import time
-	t = time.clock()
+	t = time.perf_counter()
 	fps = 0
 
 	while True:
@@ -128,8 +128,8 @@ def _main():
 
 		#fps checking 1s/print
 		fps += 1
-		if time.clock()-t >= 1:
-			t = time.clock()
+		if time.perf_counter()-t >= 1:
+			t = time.perf_counter()
 			print("fps=%d"%fps)
 			fps = 0
 

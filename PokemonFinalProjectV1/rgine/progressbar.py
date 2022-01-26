@@ -130,7 +130,7 @@ if __name__ == "__main__":
 ##    pgbar.set_color((0,255,0))
 ##    pgbar.set_size(250)
 
-    clock = time.Clock()
+    clock = time.perf_counter()
     while running:
         for evt in event.get():
             if evt.type == QUIT:
