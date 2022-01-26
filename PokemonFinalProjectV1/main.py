@@ -6,7 +6,9 @@ try:
         import pickle
         import pygame
         import os
-
+        import inspect
+        os.chdir(os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe()))))
+        
         import rgine
         import base as base
         import menu as menu
